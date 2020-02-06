@@ -1,0 +1,15 @@
+sample1	ACA
+sample2	ACG
+sample3	ACT
+sample4	AGA
+sample5	AGC
+sample6	AGT
+sample7	ATC
+sample8	ATG
+sample9	CTT
+sample10	GAC
+sample11	GAT
+sample12	GCC
+sample13	GTA
+sample14	TAG
+sample15	TGG
